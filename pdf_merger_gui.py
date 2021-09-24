@@ -1,5 +1,5 @@
 import tkinter
-from tkinter.constants import FLAT, GROOVE
+from tkinter.constants import GROOVE
 import PyPDF2
 import os
 from PIL import Image, ImageTk
@@ -70,9 +70,7 @@ merge_btn = tkinter.Button(root, textvariable = merge_text, bg='#db4b38', height
 merge_text.set('Merge')
 merge_btn.grid(row = 3,column=1,sticky=(tkinter.N,tkinter.S))
 
-
 root.columnconfigure(1,weight=1)
-
 
 
 root .mainloop()

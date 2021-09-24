@@ -9,11 +9,11 @@ Just click "Choose files" button, select pdf's and press "Merge". Merged pdf fil
 ## Example:
 Clicking "Choose files" will allow you to choose pdf files from the same directory.<br />
 <img src="Images\PDF_merge_picture1.png"/> <br />
-After choosing files press open and you'll have an option to rename the merged file or just merge using the default name.<br />
-Example of one of the ways to paste url's<br />
-<img src="Images\image0.png"/> <br />
-After clicking Download, files will be downloaded and saved into a directory named "downloaded files" in the same directory where program is located<br />
-<img src="Images\image1.png"/> <br />
+After choosing files press "Open" and you'll have an option to rename the merged file or just merge using the default name.<br />
+<img src="Images\PDF_merge_picture2.png"/> <br />
+Merged file will appear on your desktop<br />
+<img src="Images\PDF_merge_picture3.png"/> <br />
+
 
 ## Having errors?
 Make sure to have PyPDF2, Tkinter and PIL installed 
